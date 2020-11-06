@@ -1,4 +1,4 @@
-# statewise-election-results
+# Statewise-Election-Results
 
 I created a simple program using BeautifulSoup to check the election results in a few states and check Trump/Biden lead in those states. It only prints the lead value when it changes.
 
